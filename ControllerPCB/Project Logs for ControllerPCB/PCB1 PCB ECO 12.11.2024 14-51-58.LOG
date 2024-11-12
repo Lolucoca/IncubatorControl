@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TEMP Pin=U102-2
+Removed Pin From Net: NetName=PWM2 Pin=U102-16
+Added Pin To Net: NetName=PWM2 Pin=U102-2
+Added Pin To Net: NetName=TEMP Pin=U102-3
