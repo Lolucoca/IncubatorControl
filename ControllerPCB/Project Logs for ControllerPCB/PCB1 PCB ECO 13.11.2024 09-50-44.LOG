@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=J105-1
+Removed Pin From Net: NetName=+3V3 Pin=J105-2
+Removed Member From Class: ClassName=Sheet1 Member=J105
+Added Component: Designator=R109(RESC1608X06N)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=R109-2
+Added Pin To Net: NetName=NetR109_1 Pin=R109-1
+Added Pin To Net: NetName=NetR109_1 Pin=U104-3
+Added Net: Name=NetR109_1
+Added Member To Class: ClassName=Sheet1 Member=Component R109 DNP

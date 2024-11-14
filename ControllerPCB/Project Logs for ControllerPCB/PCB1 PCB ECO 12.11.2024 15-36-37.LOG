@@ -1,0 +1,6 @@
+Added Component: Designator=TP104(TestPoint_3mm)
+Added Component: Designator=TP105(TestPoint_3mm)
+Added Pin To Net: NetName=GND Pin=TP104-TP
+Added Pin To Net: NetName=+3V3 Pin=TP105-TP
+Added Member To Class: ClassName=Sheet1 Member=Component TP104 TestPoint
+Added Member To Class: ClassName=Sheet1 Member=Component TP105 TestPoint
